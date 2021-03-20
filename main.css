@@ -81,6 +81,7 @@ ul {
     rgba(85, 85, 235, 1) 100%
   );
   -webkit-text-fill-color: transparent;
+  -moz-background-clip: text;
   background-clip: text;
   -webkit-background-clip: text;
 }
